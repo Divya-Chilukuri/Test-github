@@ -1,7 +1,6 @@
 hi 
-hell
-
-
-o
+hello
 i am testing repository in my organisation
+i am pushing my branch into the remote repo
+
 
